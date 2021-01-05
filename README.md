@@ -1,2 +1,2 @@
 # Fix_AdbPermissions
-script to fix adb permission error
+Script to fix adb permission error
